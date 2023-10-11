@@ -1,0 +1,15 @@
+C:\Users\nikitaseregin\source\repos\zadachi10\zadachi10\bin\Debug\net7.0\zadachi10.exe
+C:\Users\nikitaseregin\source\repos\zadachi10\zadachi10\bin\Debug\net7.0\zadachi10.deps.json
+C:\Users\nikitaseregin\source\repos\zadachi10\zadachi10\bin\Debug\net7.0\zadachi10.runtimeconfig.json
+C:\Users\nikitaseregin\source\repos\zadachi10\zadachi10\bin\Debug\net7.0\zadachi10.dll
+C:\Users\nikitaseregin\source\repos\zadachi10\zadachi10\bin\Debug\net7.0\zadachi10.pdb
+C:\Users\nikitaseregin\source\repos\zadachi10\zadachi10\obj\Debug\net7.0\zadachi10.csproj.AssemblyReference.cache
+C:\Users\nikitaseregin\source\repos\zadachi10\zadachi10\obj\Debug\net7.0\zadachi10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikitaseregin\source\repos\zadachi10\zadachi10\obj\Debug\net7.0\zadachi10.AssemblyInfoInputs.cache
+C:\Users\nikitaseregin\source\repos\zadachi10\zadachi10\obj\Debug\net7.0\zadachi10.AssemblyInfo.cs
+C:\Users\nikitaseregin\source\repos\zadachi10\zadachi10\obj\Debug\net7.0\zadachi10.csproj.CoreCompileInputs.cache
+C:\Users\nikitaseregin\source\repos\zadachi10\zadachi10\obj\Debug\net7.0\zadachi10.dll
+C:\Users\nikitaseregin\source\repos\zadachi10\zadachi10\obj\Debug\net7.0\refint\zadachi10.dll
+C:\Users\nikitaseregin\source\repos\zadachi10\zadachi10\obj\Debug\net7.0\zadachi10.pdb
+C:\Users\nikitaseregin\source\repos\zadachi10\zadachi10\obj\Debug\net7.0\zadachi10.genruntimeconfig.cache
+C:\Users\nikitaseregin\source\repos\zadachi10\zadachi10\obj\Debug\net7.0\ref\zadachi10.dll
